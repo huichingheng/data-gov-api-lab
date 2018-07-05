@@ -15,5 +15,8 @@
     "cors": "^2.8.4",
     "csv2json": "^1.4.2",
     "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "swagger-ui-express": "^3.0.10"
   }
 }
